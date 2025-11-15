@@ -1,0 +1,22 @@
+div{
+    background-color: #c0c0c0;
+    height: auto;
+    padding: 0.5em;
+    border-radius: 0.5em;
+    margin:0.5em 30% auto 30% ;
+    font-size: 1.5em;
+
+}
+.pic{
+    font-size: 2.5em;
+    background-color: white;
+    border-radius: 0.7em;
+    width: 1.5em;
+    height: 1.5em;
+    margin-top: 0;
+    margin-right: 40%;
+    margin-left: 60%;
+    margin-bottom: 0;
+}ul{
+    list-style-position: inside;
+}
